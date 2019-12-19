@@ -1,2 +1,2 @@
-let text = 'Building with ESLint';
+const text = 'Building with ESLint';
 console.log(text);
