@@ -14,9 +14,10 @@ Some branches will have a beginning and an end state. These are marked with the 
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- Node.js ^8.10.0, ^10.13.0, or >=11.10.1
-  - npm
-  - a code editor, such as [Visual Studio Code](https://code.visualstudio.com/Download), [Atom](https://atom.io/), or [Sublime Text 3](https://www.sublimetext.com/3)
+
+    - Node.js ^8.10.0, ^10.13.0, or >=11.10.1
+    - npm
+    - a code editor, such as [Visual Studio Code](https://code.visualstudio.com/Download), [Atom](https://atom.io/), or [Sublime Text 3](https://www.sublimetext.com/3)
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. Open the folder for your repository clone in your code editor.
 4. Navigate to the folder for your repository clone in terminal or CMD.
