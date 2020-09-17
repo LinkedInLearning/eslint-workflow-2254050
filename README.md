@@ -1,9 +1,20 @@
 # ESLint: Integrating with Your Workflow
-This is the repository for the LinkedIn Learning course ESLint: Integrating with Your Workflow. The full course is available from [LinkedIn Learning](LICOURSEURL).
+This is the repository for the LinkedIn Learning course ESLint: Integrating with Your Workflow.
 
-[![ESLint: Integrating with Your Workflow](COURSEIMAGE)](LICOURSEURL)
+The full course is available from [LinkedIn Learning](https://www.linkedin.com/learning/eslint-integrating-with-your-workflow/customizing-automatic-error-checking).
 
-[COURSEDESCRIPTION]
+![ESLint: Integrating with Your Workflow](https://cdn.lynda.com/course/2254050/2254050-1580923836265-16x9.jpg)
+
+Errors crop up in even the most experienced JavaScript developer's code. ESLint can help you catch these issues early and often; it gives you a heads-up when your JavaScript code might work, but isn't quite right. This popular tool highlights errors as you're coding and allows you to write and enforce custom rules. In this concise course—the first in the ESLint series—learn how to integrate ESLint into your workflow to customize automatic error checking. Instructor Sasha Vodnik steps through how to add ESLint to a project and configure it to examine code style and automatically populate your configuration with rules from a style guide. Plus, learn how to configure and use the ESLint extension for your code editor.
+### Learning objectives
+ - Adding ESLint to a project
+ - Flagging code style issues with ESLint
+ - Customizing ESLint configuration for webpack
+ - Using ESLint in a code editor
+### Skills covered in this course
+ - Debugging Code
+ - JavaScript
+ -ESLint
 
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -21,3 +32,14 @@ Some branches will have a beginning and an end state. These are marked with the 
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. Open the folder for your repository clone in your code editor.
 4. Navigate to the folder for your repository clone in terminal or CMD.
+
+### Instructor
+
+**Sasha Vodnik**
+
+<img src ="https://media-exp1.licdn.com/dms/image/C560DAQE4Fq-GmS8pwg/learning-author-crop_200_200/0?e=1600387200&v=beta&t=mSpUtCG9JRIYT5yyCcfB2m4evsbygBh6cHjfwV-kp14" >
+
+_Senior Technical Course Developer at DocuSign_
+
+[View on LinkedIn](https://www.linkedin.com/in/sashavodnik?trk=lil_course) 
+[Other Courses by Sasha](https://www.linkedin.com/learning/instructors/sasha-vodnik)
