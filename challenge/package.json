@@ -1,10 +1,11 @@
 {
   "name": "eslint-integration",
-  "version": "1.0.0",
-  "description": "Integrating ESLint--Challenge",
+  "version": "1.0.1",
+  "description": "Integrating ESLint with your workflow",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --progress"
+    "build": "webpack --progress",
+    "lint": "eslint src"
   },
   "keywords": [
     "eslint"
@@ -12,10 +13,15 @@
   "author": "Sasha Vodnik",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.7.5",
-    "@babel/preset-env": "^7.7.6",
-    "babel-loader": "^8.0.6",
-    "webpack": "^4.28.4",
-    "webpack-cli": "^3.2.1"
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.3",
+    "babel-loader": "^8.2.2",
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
   }
 }
+
