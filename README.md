@@ -37,8 +37,6 @@ Some branches will have a beginning and an end state. These are marked with the 
 
 **Sasha Vodnik**
 
-<img src ="https://media-exp1.licdn.com/dms/image/C560DAQE4Fq-GmS8pwg/learning-author-crop_200_200/0?e=1600387200&v=beta&t=mSpUtCG9JRIYT5yyCcfB2m4evsbygBh6cHjfwV-kp14" >
-
 _Senior Technical Course Developer at DocuSign_
 
 [View on LinkedIn](https://www.linkedin.com/in/sashavodnik?trk=lil_course) 
